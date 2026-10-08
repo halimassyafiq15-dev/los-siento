@@ -1,0 +1,6 @@
+{
+  "name": "Grand Theft Pawn: Los Caissas",
+  "description": "3D open-world action adventure combining GTA V crime city mechanics with a grandmaster chess universe. Hijack vehicles, complete heists, fight the checkmate police, and promote your pawn to royal status.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
